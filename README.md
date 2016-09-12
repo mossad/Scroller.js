@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row "  >
       <div class="col-lg-8 col-lg-push-2 text-center">
-        <h1  moel-ani-data="fadeInUp after-0-5s for-0-5s" >Scroller.js v1</h1>
+        <h1  moel-ani-data="fadeInUp after-0-5s for-0-5s" ><a href="http://jsaap.com/scroller/" >Scroller.js v1</a></h1>
         <h2  moel-ani-data="fadeInUp after-0-5s for-0-5s" >by Mosaad Osami</h2>
         <p class="lead"  moel-ani-data="fadeInUp after-0-5s for-0-5s" ><strong>The only 2K file and the easiest Way ever to animate your page on scroll!</strong><br>
           <br>
